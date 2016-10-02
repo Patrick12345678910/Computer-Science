@@ -1,0 +1,22 @@
+sum = 0
+count = 0
+print "please enter a value"
+value = raw_input
+minimum = value
+maximum = value
+while (value > -1,000,000 and < 1,000,000)
+    {
+     add value to sum.
+     add one to count.
+     if value > maximum then
+                     maximum = value
+     if value < minimum then
+                     minimum = value
+     read value
+    }
+else
+    output `no data entry'
+    else {
+          set average to sum/count.
+          output count, average, maximum and minimum.
+         }
