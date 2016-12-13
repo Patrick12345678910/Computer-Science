@@ -1,0 +1,20 @@
+variable
+a value that can be changed throughout the execution of a program
+binary
+a numerical system including two value types (1 and 0) used by computer systems as their most basic system of processing
+GPU
+Graphics Processing Unit, a type of processor used primarily for visual-based processing
+RAM
+Random-Access-Memory, used tostore temporary data needed by CPU and other devices for quick access, which is then wiped after use
+PSU
+Power-Supply-Unit, used to supply components within a computer system with the correct levels of power
+CISC
+Complex-Instruction-Set-Computing, a type of processor design wherein single instructions are able to execute several low-level operations, multistep operations, and single instructions
+Virtual Memory
+Memory that appears as main storage, but is primarily supported by data from secondary storage solutions
+Lossy Compression
+A form of data encoding which discards data to compact file size, when reversed there is data loss making it inappropriate for certain data types
+Lossless Compression
+A form of data encoding which does not discard important data, and can perfectly reconstruct compressed data to original form, but is much slower that Lossy
+Array
+A series of objects of the same size and type usually stored in a structured way, an object within an array is called and array element  
